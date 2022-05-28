@@ -1,0 +1,39 @@
+#tabelas {
+    border: 15px solid;
+    border-style:hidden;
+    border-color: rgb(49, 49, 51);
+    font-size: 20px;
+    background-color: grey;
+    border-collapse:collapse;
+    
+    }
+    
+    body{
+        background: rgb(207,140,149);
+        background: linear-gradient(139deg, rgba(207,140,149,1) 0%, rgba(207,151,160,0.592874649859944) 35%, rgba(236,236,236,1) 100%);
+    }
+    
+    button {
+        background-color: cf97a0;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+    }
+    h1{
+        color: 5a5e61;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+    
+    #centro{
+        background-color:ececec;
+        padding-top: 15px;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-bottom: 20px;
+        box-shadow: 0 0 8px black;
+        margin-top: 50px;
+        margin-bottom: 100px;
+        margin-left: 150px;
+        margin-right: 150px;
+    }
+    
+    
